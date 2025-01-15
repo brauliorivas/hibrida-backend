@@ -1,4 +1,10 @@
--f https://download.pytorch.org/whl/cpu
+--index-url https://download.pytorch.org/whl/cpu
+
+torch
+torchvision
+torchaudio
+
+--index-url https://pypi.org/simple
 annotated-types==0.7.0
 anyio==4.8.0
 certifi==2024.12.14
